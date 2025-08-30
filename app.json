@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "myapp",
-    "slug": "myapp",
+    "slug": "chumphon-town-lookup",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -28,7 +28,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "777148ab-ed71-4eaf-b457-9bf3cd8806cd"
+        "projectId": "c9f2e2c2-5cfa-4487-b240-69b6476b2961"
       }
     },
     "runtimeVersion": {
@@ -36,6 +36,7 @@
     },
     "updates": {
       "url": "https://u.expo.dev/777148ab-ed71-4eaf-b457-9bf3cd8806cd"
-    }
+    },
+    "owner": "takeoff2u"
   }
 }
